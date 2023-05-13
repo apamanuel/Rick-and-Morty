@@ -1,0 +1,18 @@
+.wrapperSearch{
+    background-color: orange;
+    width: 400px;
+    height: 35px;
+    border:none;
+    float:right;
+}
+
+.input{
+    border:none;
+    width: 80%;
+}
+
+.btn{
+    background: transparent;
+    border:none;
+    width:20%;
+}

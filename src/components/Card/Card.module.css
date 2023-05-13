@@ -1,0 +1,51 @@
+.singleCard{
+    background-color:cyan;
+    width:min-content;
+    height:600px;
+    border-radius: 8px;
+}
+
+.btn{
+    background-color: red;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    border-color: red;
+    float:right;
+    font-weight:900;
+    position:relative;
+    top:0px;
+    right:0;
+    
+}
+
+.nameCharacter{
+    background-color: yellow;
+    width: fit-content;
+    height:fit-content;
+    position: relative;
+    top:-40px;
+    left: 5px;
+}
+
+.statusCharacter{
+    position:relative;
+    top:-20px;
+    right:140px;
+}
+
+.speciesCharacter{
+    position:relative;;
+    top:-71px;
+    left: 0px;
+}
+
+.genderCharacter{
+    position: relative;
+    top:-70px;
+}
+
+.originCharacter{
+    position: relative;
+    top: -70px;
+}
